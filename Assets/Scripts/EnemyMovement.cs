@@ -6,7 +6,7 @@ public class EnemyMovement : MonoBehaviour
 
     private Transform _target;
 
-    void Update()
+    private void Update()
     {
         Vector3 direction = (_target.position - transform.position).normalized;
         transform.Translate(_speed * Time.deltaTime * direction);
