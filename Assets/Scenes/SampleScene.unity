@@ -139,9 +139,33 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -18
       objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.9424447
+      objectReference: {fileID: 0}
     - target: {fileID: 1388644722902139713, guid: a096bbd73fab65340aab8af41f515795, type: 3}
       propertyPath: m_Name
       value: EnemySpawner (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.9424447
       objectReference: {fileID: 0}
     - target: {fileID: 4604389487318307301, guid: a096bbd73fab65340aab8af41f515795, type: 3}
       propertyPath: m_LocalPosition.x
@@ -224,9 +248,33 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 18
       objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.011921883
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1388644722902139713, guid: a096bbd73fab65340aab8af41f515795, type: 3}
       propertyPath: m_Name
       value: EnemySpawner (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.011921883
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4604389487318307301, guid: a096bbd73fab65340aab8af41f515795, type: 3}
       propertyPath: m_LocalPosition.x
@@ -472,13 +520,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.45752582, y: -0, z: -0, w: 0.88919634}
-  m_LocalPosition: {x: 0, y: 17.11, z: -18.01}
+  m_LocalRotation: {x: 0.4764452, y: -0, z: -0, w: 0.8792042}
+  m_LocalPosition: {x: 0, y: 17.11, z: -16.43}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 54.455, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 56.907, y: 0, z: 0}
 --- !u!1 &1023623611
 GameObject:
   m_ObjectHideFlags: 0
@@ -597,9 +645,33 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 18
       objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.019191265
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1388644722902139713, guid: a096bbd73fab65340aab8af41f515795, type: 3}
       propertyPath: m_Name
       value: EnemySpawner (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.019191265
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4604389487318307301, guid: a096bbd73fab65340aab8af41f515795, type: 3}
       propertyPath: m_LocalPosition.x
@@ -678,9 +750,33 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -18
       objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124951053221408938, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.07539296
+      objectReference: {fileID: 0}
     - target: {fileID: 1388644722902139713, guid: a096bbd73fab65340aab8af41f515795, type: 3}
       propertyPath: m_Name
       value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050408555466598141, guid: a096bbd73fab65340aab8af41f515795, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.07539296
       objectReference: {fileID: 0}
     - target: {fileID: 4604389487318307301, guid: a096bbd73fab65340aab8af41f515795, type: 3}
       propertyPath: m_LocalPosition.x
